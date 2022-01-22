@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/color4console/__init__.py
+src/color4console/colorconsole.py
+src/color4console/style.py
+src/color4console.egg-info/PKG-INFO
+src/color4console.egg-info/SOURCES.txt
+src/color4console.egg-info/dependency_links.txt
+src/color4console.egg-info/top_level.txt
