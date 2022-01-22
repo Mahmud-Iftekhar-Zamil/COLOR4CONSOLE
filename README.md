@@ -46,11 +46,15 @@ from color4console import *
 log = ColorTheme("light")
 log.error("This is a SAMPLE ERROR message.")
 ```
-
+![Sample error message text color](/images/sample_error_msg.png)
 
 You can also use following function to check all output of a sample message:
 ```python
 from color4console import *
 ColorTest("This is a SAMPLE TEXT to test.")
 ```
+![Sample error message text color](/images/theme_light.png)
+![Sample error message text color](/images/theme_symbol.png)
+![Sample error message text color](/images/theme_highlight.png)
+![Sample error message text color](/images/other_functions.png)
 
